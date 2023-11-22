@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["8db2"],{rteo:function(n,o,w){(window.__NEXT_P=window.__NEXT_P||[]).push(["/localization/Moment.example",function(){var n=w("KwA5");return{page:n.default||n}}])}},[["rteo","5d41","9da1"]]]);
