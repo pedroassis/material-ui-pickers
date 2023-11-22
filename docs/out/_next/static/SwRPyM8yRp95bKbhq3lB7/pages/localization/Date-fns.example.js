@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["ebd8"],{PrnO:function(n,a,o){(window.__NEXT_P=window.__NEXT_P||[]).push(["/localization/Date-fns.example",function(){var n=o("KCLS");return{page:n.default||n}}])}},[["PrnO","5d41","9da1"]]]);
