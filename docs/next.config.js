@@ -23,6 +23,8 @@ module.exports = withBundleAnalyzer(
       withTypescript(
         withMDX(
           withTM({
+            basePath: '/material-ui-pickers/docs/out',
+            assetPrefix: '/material-ui-pickers/docs/out/',
             webpack: config => {
               if (config.optimization.splitChunks.cacheGroups) {
                 // split all date libs to separate chunk

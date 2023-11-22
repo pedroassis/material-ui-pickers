@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
+    "export": "next export",
     "start": "next start",
     "generate-backers": "node scripts/generate-backers.js",
     "build:typescript": "tsc -p tsconfig.json && tsc -p tsconfig.js.json"
